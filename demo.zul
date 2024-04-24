@@ -1,0 +1,22 @@
+<?page title="new page title" contentType="text/html;charset=UTF-8"?>
+<zk>
+<window title="new page title" border="normal">
+<borderlayout width="100px" height="100px">
+	<north>
+		<div style="background:#008db7;color:white;">N</div>
+	</north>
+	<south>
+		<div style="background:#112f37;color:white;">S</div>
+	</south>
+	<center>
+		<div>C</div>
+	</center>
+	<east>
+		<div style="background:#f2f2f2;">E</div>
+	</east>
+	<west>
+		<div style="background:#f2f2f2;">W</div>
+	</west>
+</borderlayout>
+</window>
+</zk>

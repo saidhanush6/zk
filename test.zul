@@ -1,0 +1,20 @@
+<grid>
+    <columns>
+        <column label="Name" />
+        <column label="Age" />
+        <column label="Country" />
+    </columns>
+    <rows>
+        <row>
+            <label value="John" />
+            <label value="30" />
+            <label value="USA" />
+        </row>
+        <row>
+            <label value="Alice" />
+            <label value="25" />
+            <label value="UK" />
+        </row>
+        <!-- Add more rows as needed -->
+    </rows>
+</grid>
